@@ -11,7 +11,7 @@ import shutil
 from bidi.algorithm import get_display
 
 def translate_po_file(input_pot, output_po, target_language='ar', verbose=False):
-    # TODO: check function documentation
+    # TODO: add possibility to translate multiple files at once (--group option for example)
     """
     Translate a .pot file to a target language using translate-shell.
     
