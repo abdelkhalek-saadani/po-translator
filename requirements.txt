@@ -1,0 +1,4 @@
+polib==1.2.0
+arabic-reshaper==2.1.4
+python-bidi==0.4.2
+tqdm==4.67.1
